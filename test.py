@@ -9,9 +9,9 @@ def circle_cf(r):
 
 def circle_area(r):
     """
-    Calculates the surface of a circle
-    Input: r - radius of the circle
-    Output: area of the circle
+    Calculates the surface of a circlesfsefsfe
+    Input: r - radius of the circlesfesfe
+    Output: area of the circlesfesf
     """
     return np.pi * r ** 2
 
